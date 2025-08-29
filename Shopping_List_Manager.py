@@ -28,4 +28,7 @@ print("\nHere is your shopping list:\n")
 for i in shopping_list:
     print(f" - {i} \n")
 
+# This program was built with the intention of applying the skills and knowledge of List Handling in Python.
+# It utilises the basic loops in python and is an interactive piece of code.
+
     
